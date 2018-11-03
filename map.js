@@ -108,8 +108,10 @@ exports.KEYS_GREEN = {
     // Punctuation
     0x53: [ UInput.KEY_LEFTSHIFT, UInput.KEY_SLASH ], // ?
     0x62: [ UInput.KEY_LEFTSHIFT, UInput.KEY_SEMICOLON ], // :
-    0x55: UInput.KEY_UP,
-    0x51: UInput.KEY_DOWN
+    0x55: UInput.KEY_UP, // Left as up
+    0x51: UInput.KEY_DOWN, // Right as down
+    0x71: UInput.KEY_ESC, // Backspace as ESC
+    0x54: UInput.KEY_TAB // Space as tab
 };
 
 exports.KEYS_ORANGE = {

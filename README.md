@@ -35,5 +35,11 @@ Holding the orange modifier key and pressing the left and right arro keys maps t
 ### F1 to F10
 F1 to F10 are can be acess by holding the green modifier button and pressing the number buttons.
 
+### ESC
+Green modifier and backspace
+
+### TAB
+Green modifier and space
+
 ## Unsupported keys
 Some of the keys aren't mapped. Mostly these are the language specific keys accessed through the orange and green modifier keys.
