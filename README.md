@@ -23,23 +23,17 @@ sudo nodejs index.js <serial port>
 ## Special Keys
 For ease of use this program maps some other keys in a special way.
 
-### Left CTRL
-The people button is mapped to left CTRL.
+| Output Key | Input Key(s) |
+| --- | ----- |
+| Left CTRL | People |
+| Up | Green + Left |
+| Down | Green + Right |
+| Home | Orange + Left |
+| End | Orange + Right |
+| F1-F10 | Green + 0-9 |
+| ESC | Green + Backspace |
+| TAB | Green + Space |
 
-### Up/Down
-Holding the green modifier key and pressing the left and right arrow keys maps to up and down.
-
-### Home/End
-Holding the orange modifier key and pressing the left and right arro keys maps to Home and End.
-
-### F1 to F10
-F1 to F10 are can be acess by holding the green modifier button and pressing the number buttons.
-
-### ESC
-Green modifier and backspace
-
-### TAB
-Green modifier and space
 
 ## Unsupported keys
 Some of the keys aren't mapped. Mostly these are the language specific keys accessed through the orange and green modifier keys.
