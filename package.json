@@ -1,0 +1,15 @@
+{
+  "name": "chatpad-linux",
+  "version": "1.0.0",
+  "description": "Linux driver for Node chatpad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Stableford",
+  "license": "MIT",
+  "dependencies": {
+    "chatpad": "1.0.2",
+    "uinput": "git://github.com/timstableford/node-uinput.git#master"
+  }
+}
